@@ -1,0 +1,35 @@
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\student.exe.config
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\student.exe
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\student.pdb
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\student.xml
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\MySql.Data.dll
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\Google.Protobuf.dll
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\Renci.SshNet.dll
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RAJLE-HOME22\source\student\student\bin\Debug\MySql.Data.xml
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.vbprojAssemblyReference.cache
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.Form1.resources
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.Resources.resources
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.vbproj.GenerateResource.cache
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.vbproj.CopyComplete
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.exe
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.xml
+C:\Users\RAJLE-HOME22\source\student\student\obj\Debug\student.pdb
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\student.exe.config
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\student.exe
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\student.pdb
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\student.xml
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\MySql.Data.dll
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\Google.Protobuf.dll
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\Renci.SshNet.dll
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\bin\Debug\MySql.Data.xml
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.vbprojAssemblyReference.cache
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.Form1.resources
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.Resources.resources
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.vbproj.GenerateResource.cache
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.vbproj.CopyComplete
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.exe
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.xml
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.pdb
+C:\Users\RAJLE-HOME22\Visual Studio  2019\student\student\obj\Debug\student.Form2.resources
